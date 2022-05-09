@@ -18,8 +18,10 @@ body
 h1
 {
 	border : white double 3px;
+	width: 50%;
 	border-radius: 10px 10px 10px 10px;
 	box-shadow: 10px 10px 10px grey;
+	margin: auto;
 }
 
 img
@@ -33,6 +35,8 @@ h2
 	border: grey solid 3px;
 	border-radius: 10px 10px 10px 10px;
 	box-shadow: 5px 5px 5px white;
+	width: 30%;
+	margin: auto;
 }
 
 ul
