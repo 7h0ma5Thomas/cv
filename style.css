@@ -31,12 +31,7 @@ img
 
 h2
 {
-	color: #4d4443;
-	border: grey solid 3px;
-	border-radius: 10px 10px 10px 10px;
-	box-shadow: 5px 5px 5px white;
-	width: 60%;
-	margin: auto;
+	text-decoration: underline;
 }
 
 ul
@@ -48,19 +43,18 @@ nav
 {
 	border-right: dotted black 2px;
 	position: absolute;
-	height: 500px;
+	height: 510px;
 	margin-left: 700px;
-	margin-top: 30px;
+	margin-top: 2px;
 }
 
 section
 {
-	border: solid black 4px;
 	position: relative;
 	width: 61%;
 	height: 500px;
 	margin-left: 38%;
-	margin-top: 3%;
+	margin-top: 1%;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -72,9 +66,11 @@ section
 
 article
 {
-	border: solid black 1px;
+	border-radius: 2%;
+	box-shadow: 4px 4px 4px 4px grey;
 	width: 30%;
 	height: 500px;
-	margin:auto
+	margin:auto;
+	background-color: rgba(237, 239, 242, 0.4);
 }
 
