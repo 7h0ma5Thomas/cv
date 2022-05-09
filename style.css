@@ -44,3 +44,10 @@ ul
 	font-weight: bold;
 }
 
+nav
+{
+	border-right: dotted black 2px;
+	position: absolute;
+	height: 500px;
+	margin-left: 200px;
+}
