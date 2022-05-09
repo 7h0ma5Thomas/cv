@@ -55,10 +55,9 @@ nav
 
 section
 {
-	border solid black 4px;
+	border: solid black 4px;
 	position: relative;
-	height: 500px;
-	width: 800px;
-	margin-left: 900px;
-	margin-top: 50px;
+	width: 61%;
+	margin-left: 38%;
+	margin-top: 3%;
 }
