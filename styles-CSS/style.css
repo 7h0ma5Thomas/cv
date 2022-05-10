@@ -11,7 +11,7 @@ p
 
 body
 {
-	background-image: url(img/arriereplan.png);
+	background-image: url(../img/arriereplan.png);
 	background-attachment: fixed;
 }
 
@@ -46,7 +46,7 @@ nav
 	position: absolute;
 	height: 510px;
 	left: 700px;
-	top: 240px;
+	top: 270px;
 }
 
 section
