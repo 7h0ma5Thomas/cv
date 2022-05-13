@@ -49,6 +49,14 @@ nav
 	top: 270px;
 }
 
+@media all and (max-width: 1024px)
+{
+	nav
+	{
+		display: none;
+	}
+}
+
 section
 {
 	width: 61%;
