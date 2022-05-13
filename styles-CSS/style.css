@@ -49,14 +49,6 @@ nav
 	top: 270px;
 }
 
-@media all and (max-width: 1024px)
-{
-	nav
-	{
-		display: none;
-	}
-}
-
 section
 {
 	width: 61%;
@@ -79,3 +71,22 @@ article
 	background-color: rgba(237, 239, 242, 0.4);
 }
 
+@media all and (max-width: 1024px)
+{
+	section
+	{
+		display: block;
+		width: auto;
+		margin: auto;
+	}
+
+	nav
+	{
+		display: none;
+	}
+
+	article
+	{
+		width: auto;
+	}
+}
